@@ -18,15 +18,9 @@
     ,|      /     ) [Laravel Scanner]
  
 # How To Install
-    # git clone https://github.com/nako48/Gabut-Project/
-    # cd Gabut-Project 
-    # chmod +x haruka.sh
-    # bash haruka.sh
-
-
-# List Tools
-1. Scanner SMTP/AWS-SMS/TWILIO
-2. SMTP CHECKER
-3. TWILIO CHECKER
-# OS TESTER
-- UBUNTU
+    # git clone https://github.com/nako48/LaravelScanner/
+    # cd LaravelScanner
+    # chmod +x laravel
+    # ./laravel
+    
+    
