@@ -1,0 +1,2 @@
+# LaravelScanner
+Mass Laravel Scanner
